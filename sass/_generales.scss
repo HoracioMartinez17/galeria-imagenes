@@ -28,3 +28,25 @@ a:focus,
 button:focus {
 	outline: none;
 }
+
+
+/* Mobile */
+@mixin mobile {
+	@media (max-width: 738px) {
+	  @content;
+	}
+  
+  }
+  
+  @mixin tablet {
+	@media (max-width: 1024px) {
+	  @content;
+	}
+  
+  }
+  @mixin desktop {
+	@media (max-width: 5687px) {
+	  @content;
+	}
+	
+  }

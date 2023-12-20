@@ -1,8 +1,14 @@
 @use 'variables';
+@import '../sass/generales';
 
 .categorias {
 	display: grid;
 	grid-template-columns: repeat(3, 1fr);
+	@include mobile {
+		grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, auto);
+		gap: 10px;
+	}
 	gap: 20px;
 	position: relative;
 	top: -150px;
@@ -10,6 +16,9 @@
 
 .categoria {
 	min-height: 320px;
+	@include mobile {
+		min-height: 200px;
+	}
 	display: flex;
 	flex-direction: column;
 	justify-content: flex-end;
@@ -40,6 +49,7 @@
 
 	&__img {
 		width: 100%;
+		object-fit: cover;
 		vertical-align: top;
 		position: relative;
 	}
@@ -53,7 +63,7 @@
 
 	&__nombre {
 		font-family: variables.$secondary-font-family;
-		font-size: 34px;
+		font-size: 1.8rem;
 		margin-bottom: 5px;
 		text-shadow: variables.$text-shadow;
 	}

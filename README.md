@@ -66,7 +66,7 @@ Esta imagen es una captura de pantalla de la página de descripciones de la Gale
 
 La imagen de la página de descripciones es una representación efectiva de la diversidad de los seis continentes. Es visualmente atractiva y proporciona información sobre cada imagen.
 
-Para visitar la web, por favor sigue este enlace: [Galería de Imágenes Continentales]https://horaciomartinez17.github.io/galeria-imagenes/)
+Para visitar la web, por favor sigue este enlace: https://horaciomartinez17.github.io/galeria-imagenes/)
 
 
 ## Instrucciones de Ejecución

@@ -40,7 +40,7 @@ Esta imagen es una captura de pantalla de la página principal de la Galería de
 * Las imágenes están organizadas en un diseño de cuadrícula de 3 x 2.
 * Las imágenes están etiquetadas con el nombre de cada continente.
 
-![Imagen de la home](img/Captura%20de%20pantalla%20galeria.png)
+![Imagen de la home](img/imagen-galeria-proyect.png)
 
 
 **Conclusión:**
@@ -59,8 +59,8 @@ Esta imagen es una captura de pantalla de la página de descripciones de la Gale
 * Las imágenes están etiquetadas con el nombre de cada continente.
 * Debajo del carrusel hay una descripción de cada imagen.
 
+![Imagen de la pagina de descripciones](img/Captura%20de%20pantalla%20galeria.png)
 
-![Imagen de la pagina de descripciones](img/imagen-galeria-proyect.png)
 
 **Conclusión:**
 

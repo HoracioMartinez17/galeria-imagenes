@@ -26,13 +26,13 @@ Bienvenido al proyecto de la Galería de Imágenes Continentales. Este proyecto 
 Este proyecto ha sido desarrollado utilizando una combinación de tecnologías web modernas:
 
 * **HTML5:** Estructura semántica para una organización clara del contenido.
-* **CSS3:** Estilos que proporcionan una interfaz atractiva y responsiva.
+* **SCSS:** Estilos que proporcionan una interfaz atractiva y responsiva.
 * **JavaScript Vanilla:** Implementación de la lógica del carrusel y la interactividad de la página.
 * **Grid Layout:** Utilizado para organizar las imágenes de manera eficiente en la página del continente.
 
 **Imagen de la home**
 
-Esta imagen es una captura de pantalla de la página principal de la Galería de Imágenes Continentales. La página se ve bien en una pantalla de laptop. En el centro de la página hay una cuadrícula de imágenes de los seis continentes. Las imágenes son grandes y de alta calidad, y se pueden ver con claridad los detalles. Las imágenes están etiquetadas con el nombre de cada continente.
+Esta imagen es una captura de pantalla de la página principal de la Galería de Imágenes Continentales. La página se ve bien en una pantalla de laptop como en version movil, es totalmente responsive. En el centro de la página hay una cuadrícula de imágenes de los seis continentes. Las imágenes son grandes y de alta calidad, y se pueden ver con claridad los detalles. Las imágenes están etiquetadas con el nombre de cada continente.
 
 **Detalles:**
 

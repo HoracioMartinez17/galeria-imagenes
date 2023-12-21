@@ -32,25 +32,20 @@ Este proyecto ha sido desarrollado utilizando una combinación de tecnologías w
 
 **Imagen de la home**
 
-Esta imagen es una captura de pantalla de la página principal de la Galería de Imágenes Continentales. La página se ve bien en una pantalla de laptop como en version movil, es totalmente responsive. En el centro de la página hay una cuadrícula de imágenes de los seis continentes. Las imágenes son grandes y de alta calidad, y se pueden ver con claridad los detalles. Las imágenes están etiquetadas con el nombre de cada continente.
+Esta imagen es una captura de pantalla de la página principal de la Galería de Imágenes Continentales. La página se ve bien en una pantalla de laptop como en version movil, es totalmente responsive. En el centro de la página hay una cuadrícula de imágenes de los seis continentes. Las imágenes son grandes y de alta calidad, y se pueden ver con claridad los detalles.
 
 **Detalles:**
 
 * La cuadrícula de imágenes se encuentra en el centro de la página.
 * Las imágenes están organizadas en un diseño de cuadrícula de 3 x 2.
-* Las imágenes están etiquetadas con el nombre de cada continente.
+* Las imágenes están etiquetadas con el nombre de cada continente y el numero de imagenes.
 
 ![Imagen de la home](img/imagen-galeria-proyect.png)
 
 
-**Conclusión:**
-
-La imagen de la página principal es una representación efectiva de la diversidad de los seis continentes. Es visualmente atractiva y fácil de navegar.
-
-
 **Imagen de la página de descripciones**
 
-Esta imagen es una captura de pantalla de la página de descripciones de la Galería de Imágenes Continentales. La página se ve bien en una pantalla de laptop. En el centro de la página hay un carrusel de imágenes de los seis continentes. Las imágenes son grandes y de alta calidad, y se pueden ver con claridad los detalles. Las imágenes están etiquetadas con el nombre de cada continente. Debajo del carrusel hay una descripción de cada imagen.
+Esta imagen es una captura de pantalla de la página de descripciones de la Galería de Imágenes Continentales. La página se ve bien en una pantalla de laptop como en version movil, es totalmente responsive. En el centro de la página hay un carrusel de imágenes de los seis continentes. Las imágenes son grandes y de alta calidad, y se pueden ver con claridad los detalles. Las imágenes están etiquetadas con el nombre de cada continente. Debajo del carrusel hay una descripción de cada imagen.
 
 **Detalles:**
 
@@ -61,10 +56,6 @@ Esta imagen es una captura de pantalla de la página de descripciones de la Gale
 
 ![Imagen de la pagina de descripciones](img/Captura%20de%20pantalla%20galeria.png)
 
-
-**Conclusión:**
-
-La imagen de la página de descripciones es una representación efectiva de la diversidad de los seis continentes. Es visualmente atractiva y proporciona información sobre cada imagen.
 
 Para visitar la web, por favor sigue este enlace: https://horaciomartinez17.github.io/galeria-imagenes/
 
